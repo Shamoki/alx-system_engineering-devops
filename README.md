@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-Shells permissions assignment repository
+Shell assignment repository
